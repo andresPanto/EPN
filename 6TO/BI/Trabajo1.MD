@@ -22,3 +22,4 @@ La lamina inicial debe tener la ision y vision de la empresa
 
 Los indicadores financieros se deben consultar
  
+ De cada perspectiva un par de objetivos y maximo dos indicadores por objetivo
