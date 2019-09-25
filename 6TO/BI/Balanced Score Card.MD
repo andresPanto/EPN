@@ -37,3 +37,65 @@ Las medidas pueden ser:
 * Mercado abierto (num clientes, num productos)
 * Satisfaccion del cliente (encuestas, entrevistas)
 * Retencion del cliente (altos niveles de satisfacción para retención)
+### Objetivos respecto a los clientes
+* Adquisicion de nuevos clientes. Indicador: Número de nuevos clientes en un tiempo
+* Rendimiento del cliente: Indicador: Cantidad de dinero que gasta por compra.
+* Tiempos de entrega de productos. Indicador: Tiempo entre compra y entrega por empleado, sucursal tiempo (mes, año...)
+
+Las preferencias de los clientes pueden ser los precios bajos y las acesorias
+
+
+### Procesos internos de Negocio
+Hay que identificar la cadena de valor de la empresa. Estos son los procesos criticos nuevos y actuales.
+
+**Cadena de valor de procesos internos**
+1. Necesidades del cliente
+2. Procesos de inovacion
+3, Procesos de operacion
+4. satisfacción del cliente
+
+Del proceso se mide, el tiempo, la calidad y otros.
+
+### Aprendizaje y crecimiento
+Qué medimoas plara saber que la gente esta bien atendida.
+* Indices de satisfaccion: respecto a su alimentacion, 
+* Cantidad de veces que un empleado va al doctor debido al trabajo.
+* Medir el rendimiento del empleado.
+* Número de permisos pedidos.
+* Número de eventos sociales que realiza la empresa.
+* Numero de procesos estandarizados.
+* Número de cursos a los que asiste. Capacitacion técnica y personal
+
+
+Recordar los cuatro ejes:
+Finanzas, lcientes, procesos y aprendiazaje y conocimiento.
+
+Cualquier otra cos calza dentro de los uatro ejes del balanced score card.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
