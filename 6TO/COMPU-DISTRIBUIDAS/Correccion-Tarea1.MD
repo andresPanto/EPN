@@ -43,3 +43,19 @@ Solo existe una relacion unívoca entre una URL y una IP.
 La funcion de DNS se da por la estructura tipo arbol del protocolo
 
 ![](http://rauljesus.xyz/redes/dns/imgDNS/funcionamientoDNS.png)
+
+## Elementos que se incluyen en el envio de un correo 
+NOTAS: Los servidores de correo usualmente estan en la nube.
+Los elementos de la EPN deben estar antes del router.
+El router delimita si el elemento está dentro de la organizacion o en el exterior
+
+host EPN - server EPN - Router - Server ISP
+
+**Diferencia entre switch y router**: Switch es de capa 2 y router de capa 3
+**Qué es lo que hace el router que no hace el switch**: Enrutar direcciones IP. Es decir, las conexiones en el router son de diferentes redes
+Por otro lado, el switch conecta a varios dispositvos de la misma red. [Dominio de colisiones](https://seguinfo.wordpress.com/2012/09/02/dominio-de-colision-y-dominio-de-broadcast/)
+
+EL switch es más barato así que para delimitar, utilizo VLAN. Los switchs se pueden conectar entre sí. Y con switches de capa tres se pueden enrutar varias VLAN, pero no son VLAN.
+
+**Que hace un router que no hace un switch de capa 3**: Algoritmos de enrutamiento.
+ 
