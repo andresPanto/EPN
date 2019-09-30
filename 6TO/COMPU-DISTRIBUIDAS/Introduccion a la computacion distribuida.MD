@@ -126,5 +126,79 @@ Centralizado: Solo un elemento cordina el trabajo del resto de elementos (maestr
   Revisar Diapos
   
   ### Volunteer computing
-  Uno, voluntariamente sede sus recursos para un fin mayor
+  Uno, voluntariamente sede sus recursos para un fin mayor.
+  
+  ### Cloud Computing
+  Recursos de HW o SW ofrecidos comso un servicio.
+  
+  Modos de uso:
+  * Infraestructure as a service. Amazon elastic computer clouds
+  * Platform as a service. Google app engine
+  * Software as a servico Google apps
+  
+Hay un debate de aspectos sociales. Debo tener los datos siempre conmigo?
+
+## Autonomic Computing
+Son sistemas complejos que necesitan de autogestion.
+
+Si una persona hace una mala configuracion del sistema, es muy dificil solucionar todo.
+
+Lo que se busca es un bucle de control
+
+### Computacion movil.
+
+Positivo. La comunicacion se da en cualquer lugar, Se pueden hacer varias cosas al mismo tiempo. La toptlogía de la red siempre cambia.
+
+Negativo: Capacidad de procesamiento limitado sobre todo por la energía. Los móviles no tienen siempre conexion a internet
+
+Aspectos: 
+*Limitaciones en recuros
+* AB variable
+* Se debe controlar el consumo de energía
+* Mayor amenaza de seguridad y privacidad
+   
+### Ubiquitous Computing
+Cada vez hay conexion en más lugares
+
+Computadores omniprescentes en muchos dispositivos
+
+Muchos de ellos no actúan con el usuario.
+
+Aspectos:
+* Sistema dianamico. Componenetes (des)aparecen y se mueven.
+* Spontaneous netwoerking
+* Cada vez es más dificil localizar dispositivos
+* Wearable computing
+* Context-aware computing
+
+Ejemplos: 
+Imprmir fotos al llegar a un hotel
+Visita guiada a un museo.
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   

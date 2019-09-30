@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f2a298e-8dba-4024-a48d-4e523007f12c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Introduccion a la computacion distribuida.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Procesamiento secuencial y paralelo.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/objetivos de un sistema distribuido.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LIBRES/CAP1-Fundamentos-Sept30.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWII/Industria4-0.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Correccion-Tarea1.MD" beforeDir="false" afterPath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Correccion-Tarea1.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Introduccion a la computacion distribuida.MD" beforeDir="false" afterPath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Introduccion a la computacion distribuida.MD" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +24,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JS-TS/capacitacionesmanticore" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,6 +55,9 @@
       <workItem from="1569419231668" duration="2740000" />
       <workItem from="1569422583664" duration="3999000" />
       <workItem from="1569467360490" duration="6642000" />
+      <workItem from="1569772940530" duration="599000" />
+      <workItem from="1569845864443" duration="4071000" />
+      <workItem from="1569852772133" duration="8886000" />
     </task>
     <servers />
   </component>
