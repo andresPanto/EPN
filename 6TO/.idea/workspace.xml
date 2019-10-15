@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f2a298e-8dba-4024-a48d-4e523007f12c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Paradigme de programacion paralela.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BI/Data Warehouse.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Procesamiento secuencial y paralelo.MD" beforeDir="false" afterPath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Procesamiento secuencial y paralelo.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Algortmos distribuidos/Principios de algoritmos distribuidos.MD" beforeDir="false" afterPath="$PROJECT_DIR$/COMPU-DISTRIBUIDAS/Algortmos distribuidos/Principios de algoritmos distribuidos.MD" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,10 @@
       <workItem from="1569772940530" duration="599000" />
       <workItem from="1569845864443" duration="4071000" />
       <workItem from="1569852772133" duration="9333000" />
-      <workItem from="1569946575749" duration="3948000" />
+      <workItem from="1569946575749" duration="5690000" />
+      <workItem from="1570018738961" duration="325000" />
+      <workItem from="1570548311813" duration="146000" />
+      <workItem from="1571149431835" duration="3215000" />
     </task>
     <servers />
   </component>
